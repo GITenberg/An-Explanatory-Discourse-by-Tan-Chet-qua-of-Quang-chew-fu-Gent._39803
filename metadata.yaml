@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40236
     wikipedia: http://en.wikipedia.org/wiki/William_Chambers_%28architect%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39803#An-Explanatory-Discourse-by-Tan-Chet-qua-of-Quang-chew-fu-Gent.
 gutenberg_issued: '2012-05-26'
 gutenberg_type: Text
 identifiers:
